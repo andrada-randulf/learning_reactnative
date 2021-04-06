@@ -1,0 +1,15 @@
+URL: https://www.youtube.com/watch?v=NgDaPmxewcg
+
+documentation: https://devdocs.io/react_native/
+
+check if node.js is install
+
+if ever expo is not installed on the system type "npm install expo-cli --global"
+
+1. create new expo project
+	- expo init project_name
+	- "expo init weather-app-react-native"
+
+2. open the expo project
+	- "npm run expo start" ? or "expo start"
+	- 
